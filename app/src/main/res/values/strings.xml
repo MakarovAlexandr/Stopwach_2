@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stopwach_2</string>
+    <string name="messageStop">Секундомер выключен</string>
+</resources>
